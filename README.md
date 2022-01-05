@@ -22,3 +22,7 @@ optional arguments:
   -mm MINUTE, --minute MINUTE Minute
   
   -t OBSERVING_DURATION, --observing_duration OBSERVING_DURATION Observation Duration (in hours)
+  
+  # Python Requirements
+  
+  astropy
